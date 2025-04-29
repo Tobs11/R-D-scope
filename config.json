@@ -1,0 +1,9 @@
+{
+    "email": {
+        "sender": "yourEmail@gmail.com",
+        "receiver": "recipientEmail@gmail.com",
+        "password": "yourPassword"
+    },
+    "screenshot_interval": 5,
+    "log_folder": "People"
+}
